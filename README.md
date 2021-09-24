@@ -4,4 +4,6 @@ Geckodriver driver needs to be installed and placed in the same folder.
 
 Update login ("XXXXX", "XXXXX") with you login credentials on kijiji
 
-Happy re-posting and selling on Kijiji
+Happy re-posting and selling on Kijiji! :)
+
+This script will reduce your carbon footprint and fight climate change by promoting a culture of reuse 
